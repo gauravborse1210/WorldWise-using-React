@@ -68,6 +68,8 @@ input:focus {
   border-radius: 5px;
 }
 
+/* This is a CodeSnippet for importing css module inside a component if you like you can add it to your CodeSnippet. */
+
 /*
 "importCSSModule": {
     "prefix": "csm",

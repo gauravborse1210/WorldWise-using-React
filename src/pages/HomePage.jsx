@@ -3,8 +3,6 @@ import { Link } from "react-router-dom";
 import PageNav from "../components/PageNav";
 
 export default function HomePage() {
-  console.log("hellow");
-
   return (
     <main className={styles.homepage}>
       <PageNav />

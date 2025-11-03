@@ -3,7 +3,6 @@ import { useAuth } from "../contexts/FakeAuthContext";
 import styles from "./User.module.css";
 
 function User() {
-  // const user = FAKE_USER;
   const { user, logout } = useAuth();
   const navigate = useNavigate();
 

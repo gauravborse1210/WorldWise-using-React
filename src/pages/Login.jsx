@@ -4,7 +4,6 @@ import PageNav from "../components/PageNav";
 import { useAuth } from "../contexts/FakeAuthContext";
 import Button from "../components/Button";
 import { useNavigate } from "react-router-dom";
-import Message from "../components/Message";
 
 export default function Login() {
   // PRE-FILL FOR DEV PURPOSES

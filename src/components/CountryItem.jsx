@@ -2,6 +2,7 @@ import styles from "./CountryItem.module.css";
 
 function CountryItem({ country }) {
   //For displaying Emojis from our fake API data
+
   const flagemojiToPNG = (flag) => {
     // Case 1: If it's a React <img /> element
     if (typeof flag === "object" && flag?.props?.src) {
@@ -29,7 +30,6 @@ function CountryItem({ country }) {
     }
 
     // Fallback for unknown input
-
     return null;
   };
 
