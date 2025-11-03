@@ -1,0 +1,50 @@
+{
+  "cities": [
+    {
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2027-03-21T10:45:00.000Z",
+      "notes": "Bustling and vibrant!",
+      "position": {
+        "lat": 19.076,
+        "lng": 72.8777
+      },
+      "id": "10010001"
+    },
+    {
+      "cityName": "New York",
+      "country": "United States",
+      "emoji": "🇺🇸",
+      "date": "2027-06-10T14:30:00.000Z",
+      "notes": "Iconic skyline 🗽",
+      "position": {
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "id": "10010002"
+    },
+    {
+      "id": "7220",
+      "cityName": "Kallam",
+      "country": "India",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/in.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2025-11-02T13:18:51.717Z",
+      "notes": "",
+      "position": {
+        "lat": "18.53796035315255",
+        "lng": "76.15722656250001"
+      }
+    }
+  ]
+}
