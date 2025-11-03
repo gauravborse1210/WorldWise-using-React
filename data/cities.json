@@ -45,6 +45,28 @@
         "lat": "18.53796035315255",
         "lng": "76.15722656250001"
       }
+    },
+    {
+      "id": "d7e4",
+      "cityName": "Nepanagar",
+      "country": "India",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/in.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "date": "2025-11-03T12:52:34.894Z",
+      "notes": "",
+      "position": {
+        "lat": "21.47081782625765",
+        "lng": "76.04736328125"
+      }
     }
   ]
 }
